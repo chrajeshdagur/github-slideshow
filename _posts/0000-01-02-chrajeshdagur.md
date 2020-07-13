@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome Rajesh!"
 ---
-Your text
+Hello Brother! i'm changing the lines.
 Use the left arrow to go back!
